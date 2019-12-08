@@ -5,13 +5,14 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.name,.main-nav a,h2{
+.name,.main-nav a,h2,.header-name{
     display:block;
     text-transform: uppercase;
     font-size:30px;
     text-align:center;
     padding:10px 20px;
 }
+
 
 .main-nav a{
     text-decoration: none;
